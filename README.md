@@ -13,7 +13,7 @@ Claro! Aqui está um índice detalhado para um livro sobre qualidade de dados, c
 - Importância da Qualidade de Dados
 - Objetivo e Estrutura do Livro
 
-#### **Capítulo 1: Introdução à Qualidade de Dados**
+# **Capítulo 1: Introdução à Qualidade de Dados**
 - 1.1 Definição e Importância da Qualidade de Dados
 - 1.2 Impacto da Qualidade de Dados nos Negócios
 - 1.3 Desafios Comuns em Qualidade de Dados
@@ -97,7 +97,7 @@ Este índice cobre uma ampla gama de tópicos importantes para a qualidade de da
 
 ____
 
-### **Capítulo 1: Introdução à Qualidade de Dados**
+# **Capítulo 1: Introdução à Qualidade de Dados**
 
 #### **1.1 Definição e Importância da Qualidade de Dados**
 
@@ -136,7 +136,7 @@ Este capítulo tem como objetivo fornecer uma visão geral sobre a importância 
 No próximo capítulo, exploraremos os fundamentos da qualidade de dados, incluindo as diferentes dimensões que definem a qualidade e como medir e avaliar a eficácia dos dados na prática.
 ___
 
-### **Capítulo 2: Fundamentos da Qualidade de Dados**
+# **Capítulo 2: Fundamentos da Qualidade de Dados**
 
 #### **2.1 Dimensões da Qualidade de Dados**
 
@@ -204,7 +204,7 @@ No próximo capítulo, exploraremos como planejar e desenvolver uma estratégia 
 
 ___
 
-### **Capítulo 3: Planejamento e Estratégia para Qualidade de Dados**
+# **Capítulo 3: Planejamento e Estratégia para Qualidade de Dados**
 
 #### **3.1 Desenvolvimento de uma Estratégia de Qualidade de Dados**
 
@@ -283,7 +283,7 @@ No próximo capítulo, exploraremos como identificar e avaliar problemas de qual
 
 ___
 
-### **Capítulo 4: Identificação e Avaliação de Problemas de Qualidade de Dados**
+# **Capítulo 4: Identificação e Avaliação de Problemas de Qualidade de Dados**
 
 #### **4.1 Técnicas de Identificação de Problemas**
 
@@ -369,7 +369,7 @@ No próximo capítulo, exploraremos técnicas para a melhoria e correção dos d
 
 ___
 
-### **Capítulo 5: Melhoria e Correção de Dados**
+# **Capítulo 5: Melhoria e Correção de Dados**
 
 #### **5.1 Técnicas de Limpeza de Dados**
 
@@ -450,7 +450,7 @@ No próximo capítulo, abordaremos a integração de dados e como garantir que o
 
 ___
 
-### **Capítulo 6: Integração de Dados**
+# **Capítulo 6: Integração de Dados**
 
 #### **6.1 Conceitos Fundamentais de Integração de Dados**
 
@@ -531,7 +531,7 @@ No próximo capítulo, abordaremos a governança de dados, incluindo como estabe
 
 ___
 
-### **Capítulo 7: Governança de Dados**
+# **Capítulo 7: Governança de Dados**
 
 #### **7.1 Conceito e Importância da Governança de Dados**
 
@@ -616,7 +616,7 @@ No próximo capítulo, abordaremos a análise de dados e como utilizar técnicas
 
 ____
 
-### **Capítulo 8: Análise de Dados**
+# **Capítulo 8: Análise de Dados**
 
 #### **8.1 Conceitos Fundamentais de Análise de Dados**
 
@@ -715,7 +715,7 @@ No próximo capítulo, abordaremos a visualização de dados, focando em como cr
 
 ____
 
-### **Capítulo 9: Visualização de Dados**
+# **Capítulo 9: Visualização de Dados**
 
 #### **9.1 Conceitos Fundamentais de Visualização de Dados**
 
@@ -814,7 +814,7 @@ No próximo capítulo, abordaremos a integração de dados com sistemas de Big D
 
 ___
 
-### **Capítulo 10: Integração de Dados com Sistemas de Big Data**
+# **Capítulo 10: Integração de Dados com Sistemas de Big Data**
 
 #### **10.1 Conceitos Fundamentais de Big Data**
 
@@ -905,7 +905,7 @@ No próximo capítulo, abordaremos a implementação de soluções de Machine Le
 
 ____
 
-### **Capítulo 11: Implementação de Soluções de Machine Learning**
+# **Capítulo 11: Implementação de Soluções de Machine Learning**
 
 #### **11.1 Conceitos Fundamentais de Machine Learning**
 
@@ -1003,7 +1003,7 @@ No próximo capítulo, abordaremos a gestão e governança de dados, discutindo 
 
 ___
 
-### **Capítulo 12: Gestão e Governança de Dados**
+# **Capítulo 12: Gestão e Governança de Dados**
 
 #### **12.1 Conceitos Fundamentais de Governança de Dados**
 
@@ -1139,7 +1139,7 @@ Garantir a conformidade com regulamentações e leis é um aspecto essencial da 
 
 ___
 
-### **Capítulo 13: Estratégias para Melhoria Contínua da Qualidade de Dados**
+# **Capítulo 13: Estratégias para Melhoria Contínua da Qualidade de Dados**
 
 #### **13.1 Conceito de Melhoria Contínua**
 
@@ -1223,7 +1223,7 @@ Claro! Vamos continuar com o Capítulo 12.
 
 ---
 
-### **Capítulo 12: Gestão e Governança de Dados**
+#**Capítulo 12: Gestão e Governança de Dados**
 
 #### **12.6 Conclusão do Capítulo**
 
@@ -1250,7 +1250,7 @@ Se precisar de mais alguma coisa ou tiver dúvidas sobre algum ponto específico
 
 ___
 
-### **Capítulo 13: Estratégias para Melhoria Contínua da Qualidade de Dados**
+# **Capítulo 13: Estratégias para Melhoria Contínua da Qualidade de Dados**
 
 #### **13.1 Conceito de Melhoria Contínua**
 
@@ -1341,7 +1341,7 @@ No próximo capítulo, abordaremos o papel da inteligência artificial (IA) na a
 
 ___
 
-### **Capítulo 14: O Papel da Inteligência Artificial na Análise de Dados**
+# **Capítulo 14: O Papel da Inteligência Artificial na Análise de Dados**
 
 #### **14.1 Introdução à Inteligência Artificial**
 
@@ -1437,7 +1437,7 @@ No próximo capítulo, abordaremos a integração de dados provenientes de múlt
 
 ___
 
-### **Capítulo 15: Integração de Dados e Criação de Data Warehouses**
+# **Capítulo 15: Integração de Dados e Criação de Data Warehouses**
 
 #### **15.1 Introdução à Integração de Dados**
 
